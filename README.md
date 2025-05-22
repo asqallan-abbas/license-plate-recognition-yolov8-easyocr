@@ -52,8 +52,8 @@ It performs automatic License Plate Detection using YOLOv8 and extracts plate nu
 |-----------------------------|--------------------------------------------------|
 | `License_Plate_Recognition.ipynb` | Full Jupyter Notebook (YOLOv8 + EasyOCR)        |
 | `final_predictions.csv`     | OCR output for all 201 test images               |
-| `data/*.csv`                | Training annotation files (optional upload)      |
-| `images/`                   | Sample input/output images (optional upload)     |
+| `data/*.csv`                | Training annotation files      |
+| `images/`                   | Sample input/output images     |
 
 ---
 
